@@ -58,36 +58,36 @@
 ## 📌 홈페이지 화면
 
 1. 메인페이지 : 사이드 메뉴 바, 메인 슬라이드로 nft 홍보, 우측 상단 본인 지갑 및 mypage 연결
-<img alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/1#issue-1615110291">
+<img alt="image" src="https://user-images.githubusercontent.com/107897959/223701470-97976686-5197-4bfb-bd9c-c655d1567968.png">
 
 <br />
 
 2. 메인 페이지2 : 메인슬라이드 밑 부분으로 거래량 순위 및 nft 크리에이터 순위 클릭시 마켓플레이스 연결
-<img alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/3#issue-1615112692">
+<img alt="image" src="https://user-images.githubusercontent.com/107897959/223701725-8b5d80aa-2f8b-4683-9504-7a7bc71777f7.png">
 
 <br />
 
 3. 스왑페이지 : 자체토큰 스왑 페이지로 이더리움으로 KaiToken 스왑 스왑시 자동으로 받을 토큰 및 이더리움 개수표시
 				반대로 KaiToken으로도 이더리움 스왑 가능
-<img width="1281" alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/2#issue-1615111263">
+<img alt="image" src="https://user-images.githubusercontent.com/107897959/223702228-452384e5-9df4-45ee-906f-85f46aeb2ff6.png">
 
 <br />
 
 4. 민팅페이지 :  보유하고 있는 KaiToken으로 민팅 가능 지갑계정 하나당 3개까지 민팅가능
 
-<img width="1281" alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/5#issue-1615113217">
+<img alt="image" src="https://user-images.githubusercontent.com/107897959/223701974-bdc5d1db-7d8b-406f-9ee0-55c6e6c47792.png">
 
 <br />
 
 5. 마이페이지 :  보유하고 있는 KaiToken 확인, 보유하고 있는 nft 확인
 
-<img width="1281" alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/6#issue-1615114093">
+<img alt="image" src="https://user-images.githubusercontent.com/107897959/223702088-24228a19-1c40-4963-928a-99c5f5cee4c9.png">
 
 <br />
 
 5. 마켓페이지 : nft 판매등록 가능
 
-<img width="1281" alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/4#issue-1615112843">
+<img alt="image" src="https://user-images.githubusercontent.com/107897959/223701897-6ca0a59f-3ba9-4a68-a7b5-94ca6adbcdcd.png">
 
 <br />
 
