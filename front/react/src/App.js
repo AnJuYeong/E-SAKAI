@@ -12,7 +12,7 @@ import Minting from "./components/Page/Minting";
 import { useWeb3React } from '@web3-react/core';
 import useWeb3 from './hooks/useWeb3';
 // 컨트렉트
-import KaiTokenContract from "./contracts/KaiToken.json";
+import KaiTokenContract from "./contracts/Kai2Token.json";
 import MintNFT from "./contracts/MintNFT.json";
 import Sale from "./contracts/Sale.json";
 // import MintingPage from "./components/Page/MintingPage";

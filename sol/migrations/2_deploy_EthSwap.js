@@ -1,11 +1,11 @@
-const KaiToken = artifacts.require("KaiToken");
+const Kai2Token = artifacts.require("Kai2Token");
 const MintNFT = artifacts.require("MintNFT");
 const Sale = artifacts.require("Sale");
 
 module.exports = async function (deployer){
-    // KaiToken 배포 진행
-    await deployer.deploy(KaiToken);
-    const kai = await KaiToken.deployed();
+    // Kai2Token 배포 진행
+    await deployer.deploy(Kai2Token);
+    const kai = await Kai2Token.deployed();
     // MintNFT 배포 진행
     await deployer.deploy(MintNFT, kai.address);
     // 배포된 MintNFT인스턴스 가져오기
