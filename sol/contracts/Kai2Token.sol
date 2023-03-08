@@ -6,7 +6,7 @@ import "../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20.sol";
 import "../node_modules/openzeppelin-solidity/contracts/access/Ownable.sol";
 
 
-// 컨트랙트 상속 is로 SOONToken에 ERC20를 상속 
+// 컨트랙트 상속 is로 Kai2Token ERC20를 상속 
 contract Kai2Token is ERC20, Ownable {
     string public _name = "KaiToken";
     string public _symbol = "KAI";
@@ -73,7 +73,7 @@ contract Kai2Token is ERC20, Ownable {
         tokenTransferSell(owner(),from, _amount*rate);
     }
 
-    //ERC20에 밑에 두개 함수 추가 하기
+    //ERC20에 밑에 세개 함수 추가 하기
     // token 구매
     // function tokenTransferBuy(address owner, address to, uint256 amount) public virtual {
     //     _balances[owner] -= amount;
@@ -83,5 +83,9 @@ contract Kai2Token is ERC20, Ownable {
     // function tokenTransferSell(address owner, address to, uint256 amount) public virtual {
     //     _balances[owner] += amount;
     //     _balances[to] -= amount;
+    // }
+    // 컨트랙트 시작할 때 토큰 생성
+    // function mint(address account, uint256 amount) public virtual {
+    //     _mint( account,  amount);
     // }
 }
