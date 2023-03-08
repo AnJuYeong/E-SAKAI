@@ -47,12 +47,12 @@
 ## 📌 홈페이지 화면
 
 1. 메인페이지 : 사이드 메뉴 바, 메인 슬라이드로 nft 홍보, 우측 상단 본인 지갑 및 mypage 연결
-<img width="1281" alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/1#issue-1615110291">
+<img alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/1#issue-1615110291">
 
 <br />
 
 2. 메인 페이지2 : 메인슬라이드 밑 부분으로 거래량 순위 및 nft 크리에이터 순위 클릭시 마켓플레이스 연결
-<img width="1281" alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/3#issue-1615112692">
+<img alt="image" src="https://github.com/AnJuYeong/E-SAKAI/issues/3#issue-1615112692">
 
 <br />
 
