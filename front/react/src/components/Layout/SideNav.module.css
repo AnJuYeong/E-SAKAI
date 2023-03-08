@@ -1,0 +1,25 @@
+.side-nav{
+    background-color: white;
+    width: 240px;
+    height: 200vh;
+    font-size: 20px;
+    padding: 20px 20px;
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 0 ;
+    /* padding-top: 122px;
+    margin-top: -122px; */
+    border-right: pink solid 1px;
+   
+}
+
+.hover-bg:hover{
+    background-color: pink;
+    cursor: pointer;
+    border-radius: 0.75rem;
+}
+
+.hover-tx:hover{
+    font-weight: bold;
+    cursor: pointer;
+}

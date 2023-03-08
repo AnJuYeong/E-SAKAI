@@ -1,6 +1,6 @@
 #  Project : E-SEKAI !!
 ## 팀명 : 좌냥 하 우멍
-#### 팀원 : 최하진, 김종찬, 안주영
+#### 팀원 : 김종찬, 안주영
 * 목표
   * 우리는 그동안 배워온 지식을 바탕으로 블록체인과 지갑을 연결한 NFT 거래소를 구현하는 것을 목표한다.
   * 실제 거래경험을 바탕으로 유저에게 편리한 UI를 제공, 직접 토큰을 발행함으로써 토큰의 유통과정 뿐만 아니라 생성원리에 대해서 공부한다.
@@ -16,4 +16,3 @@
 	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=Mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/SOLIDITY-363636?style=flat&logo=Solidity&logoColor=white" />
 </div>
-# E-SAKAI
